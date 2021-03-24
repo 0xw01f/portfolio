@@ -1,5 +1,13 @@
 # Portfolio
 
+Index :
+- [Website creation]()
+- [Software creation]()
+- [Scripting]()
+
+
+You can also take a look at [my blog](https://w01f.xyz/).
+
 ## Website creation
 ---
 ## Ranburger
