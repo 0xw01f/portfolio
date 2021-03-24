@@ -2,14 +2,21 @@
 
 Index :
 - [Website creation](#website-creation)
-- [Software creation](#website-creation)
-- [Scripting]()
+    - [Ranburger](#ranburger)
+    - [w01fgram](#w01fgram)
+    - [Cyber cats](#cyber-cats)
+- [Software creation](#software-creation)
+    - [Datacenter dashboard](#datacenter-dashboard)
+    - [darkpurple Calculator](#darkpurple-calculator)
 
+- [Scripting](#scripting)
+    - [BrightSign-File-Converter](#brightsign-file-converter)
+    - [PluWeSh](#pluwesh)
 
 You can also take a look at [my blog](https://w01f.xyz/).
 
-## Website creation
----
+# Website creation
+
 ## Ranburger
 ### About RanBurger
 RandBurger exists because. Just because.
@@ -41,27 +48,110 @@ w01fgram has a really poor name, and I'm sorry for that, but it is capable of :
 - User can follow and be followed from other users
 - User can see the posts from followed users on the main page
 
+Link to : [GitHub project page](https://github.com/0xw01f/w01fgram).
+
 ## Pictures
 
----
 ![w01fgram Profile Page](https://i.imgur.com/aWTs6si.png)
 Profile page
 
----
 ![w01fgram Edit Profile Page](https://i.imgur.com/rbPPovj.png)
 Edit Profile Page
 
 ---
-![w01fgram View Post Full](https://i.imgur.com/OsBtBvP.png)
-View Full Post
+# About cyber cats 🐱‍💻
+The future of cats already exists, an intercatlactical traveller who's commonly known as 'Pawfinder' gave me some **high** confidential information about his future. His mission ended there, because his paws are unfortunately not made for coding.
+Now these information are in my own hands, and my job is to share you what he found.
+Hang on ! Because your knowledge is nothing concerning this future. ✨
 
+![Cat Search](https://i.imgur.com/56yM5DS.png)
+
+It uses **Vue.js** with **Axios** to call an **API** to get all the cat information.
+
+
+Link to : [GitHub project page](https://github.com/0xw01f/cyber-cats).
+
+
+# Software creation
+
+## Database Dashboard
+
+A design concept for datacenter dashboards written in C#.
+
+![Design](https://i.imgur.com/gfM8G7N.png)
+(demo)
+
+
+There are some functionnal features too. You can easily add a new server panel, and change it's status.
+
+OFFLINE status is animated.
+
+![Animation GIF](https://i.gyazo.com/0c9cb39d83be4ec587ac9e4d35c6bd28.gif)
+
+Applciation can be maximized with no problems.
+
+Design inspired by [mi2moon's work on CodePen](https://codepen.io/mi2oon/pen/ZXWZdV).
+
+Link to : [GitHub project page](https://github.com/0xw01f/datacenterdashboard).
+
+## darkpurple Calculator
+A dark purple carculator. Simple design.
+
+![Design Picture](https://i.imgur.com/yv8OqvV.png)
+
+Made using bunifu design.
+
+Link to : [GitHub project page](https://github.com/0xw01f/darkpurple-calculator).
+
+
+# Scripting
+
+## BrightSign-File-Converter
+A simple python tool to convert files organized by a BrightSign system to human-readable files
+
+
+As BrightSign's documentation says.
+>With BrightAuthor 2.2, files published for Simple File Networking updates now reside in the Pool folder.
+These files are named using their hash key values, so they have no extensions.
+
+These files are in a Pool folder, and then distributed in a bunch of other files.
+![Hash Example](https://i.imgur.com/LNF6cOH.png)
+
+An XML file is also created, to list each file whith its details.
+![WML Content](https://i.imgur.com/pNH32Yt.png)
+
+thanks to this file I was able to get all the files and rename them, while putting them back to the right folder.
+All you have to do, is to create two folders. One named `SORTED FILES` and the otehr one named `UNSORTED FILES`.
+Be sure that your XML file has the same name than mine, and put it with the pool folder in `UNSORTED FILES`.
+
+I think nobody is ever gonna use this, but I hope it will be helpful to somebody one day...
+
+Link to : [GitHub project page](https://github.com/0xw01f/BrightSign-File-Converter).
+
+
+## PluWeSh
+ The Pluggable WebShell
+
+Local WebShell with PowerShell
 ---
-![w01fgram View Post Full](https://i.imgur.com/b2ayh6g.png)
-Main page
 
-## About
-Feel free to contact me if you want more information about this (or another) project !
+![Design Image](https://i.imgur.com/jVr5g1i.png)
 
 
-## Software creation
+You will need some hardware to make this webshell "pluggable". But you can try to run it and see what it does.
+
+Use it
 ---
+
+Once the script configured for your needs (take a look at the scripts comments), uploaded to the internet, and the Digispark programmed, you should be ready.
+
+1. Plug the digispark into the computer which simulates the victim.
+2. Wait a few seconds.
+3. Open your phone, laptop, … and connect to the new access point.
+4. Scan for the victims IP address inside the local network
+5. Enterthe Ip address, followed by the port into the URL bar of your browser (e.g. 192.168.43.214:1338)
+
+A wild webshell appears.
+
+
+Link to : [GitHub project page](https://github.com/0xw01f/pluwesh).
