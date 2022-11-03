@@ -5,6 +5,12 @@ Index :
     - [Ranburger](#ranburger)
     - [w01fgram](#w01fgram)
     - [Cyber cats](#cyber-cats)
+    
+    - [Dribbble reproductions](#dribble-reproductions)
+        - [Security landing page](#security-landing-page)
+        - [Organica](#organica)
+        - [Glassmorphism bank card](#glassmorphism-bank-card)
+        - [Smart ring](#smart-ring)
 - [Software creation](#software-creation)
     - [Datacenter dashboard](#datacenter-dashboard)
     - [darkpurple Calculator](#darkpurple-calculator)
@@ -76,6 +82,39 @@ It uses **Vue.js** with **Axios** to call an **API** to get all the cat informat
 Link to : [GitHub project page](https://github.com/0xw01f/cyber-cats).
 
 
+---
+# Dribble reproductions
+
+## Security landing page
+
+This is a reproduction of [Patryk Szymański](https://dribbble.com/shots/6917377-CyberSecurity-Landing-Page) on Dribbble.
+
+
+### Result :
+![Result](https://i.gyazo.com/cc62f958f09339d3f2a85bc494297cc4.gif)
+
+
+## Organica
+### Result :
+![Result](https://i.imgur.com/0QQmgOi.jpg)
+
+
+## Glassmorphism bank card
+
+Preview :
+[Online live preview](https://glass-bank-card.vercel.app/)
+
+<p align="center"><img src="https://i.imgur.com/LonvSsk.png" ></p>
+
+## Smart ring
+Preview :
+[Online live preview](https://smart-ring.vercel.app/)
+
+You can move around the 3D model of the ring using your mouse or finger.
+### Result :
+![Result](https://i.gyazo.com/35863697be97fa0a386f712cd75b4698.gif)
+
+---
 # Software creation
 
 ## Datacenter Dashboard
@@ -131,6 +170,5 @@ Be sure that your XML file has the same name than mine, and put it with the pool
 I think nobody is ever gonna use this, but I hope it will be helpful to somebody one day...
 
 Link to : [GitHub project page](https://github.com/0xw01f/BrightSign-File-Converter).
-
 
 
