@@ -1,5 +1,10 @@
 # Portfolio
 
+This is going to be a real website one day.
+Feel free to explore [my GitHub account](https://github.com/0xw01f).
+
+
+
 Index :
 - [Website creation](#website-creation)
     - [Ranburger](#ranburger)
