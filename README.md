@@ -22,7 +22,7 @@ Index :
 
 - [Scripting](#scripting)
     - [BrightSign-File-Converter](#brightsign-file-converter)
-    - [PluWeSh](#pluwesh)
+ 
 
 You can also take a look at [my blog](https://w01f.xyz/).
 
