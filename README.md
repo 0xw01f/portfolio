@@ -16,10 +16,11 @@ Index :
         - [Organica](#organica)
         - [Glassmorphism bank card](#glassmorphism-bank-card)
         - [Smart ring](#smart-ring)
+          
 - [Software creation](#software-creation)
     - [Datacenter dashboard](#datacenter-dashboard)
-    - [darkpurple Calculator](#darkpurple-calculator)
     - [Windows Sandbox Manager](#windows-sandbox-manager)
+    - [Other](#other-software)
 
 - [Scripting](#scripting)
     - [BrightSign-File-Converter](#brightsign-file-converter)
@@ -148,6 +149,17 @@ A simple program to activate or deactivate virtualization and other requirements
 
 Link to the project: [Windows sandbow manager](https://github.com/0xw01f/windows-sandbox-manager)
 
+## Other-software
+Other projects that are not shown :
+    - Remote Administration tool in VB.Net (for tests on myself only)
+        - Screenshot
+        - Remote code execution
+        This project shows how to use network sockets and TCP/UDP protocols
+    - Telegram bots
+    - Diverse Chatbots in C++/C#/VB.Net/Python communicating over TCP
+    
+    
+
 # Scripting
 
 ## BrightSign-File-Converter
@@ -172,4 +184,4 @@ I think nobody is ever gonna use this, but I hope it will be helpful to somebody
 
 Link to : [GitHub project page](https://github.com/0xw01f/BrightSign-File-Converter).
 
-
+## 
