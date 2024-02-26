@@ -19,6 +19,7 @@ Index :
 - [Software creation](#software-creation)
     - [Datacenter dashboard](#datacenter-dashboard)
     - [darkpurple Calculator](#darkpurple-calculator)
+    - [Windows Sandbox Manager](#windows-sandbox-manager)
 
 - [Scripting](#scripting)
     - [BrightSign-File-Converter](#brightsign-file-converter)
@@ -142,15 +143,10 @@ Design inspired by [mi2moon's work on CodePen](https://codepen.io/mi2oon/pen/ZXW
 
 Link to : [GitHub project page](https://github.com/0xw01f/datacenterdashboard).
 
-## darkpurple Calculator
-A dark purple carculator. Simple design.
+## Windows sandbox manager
+A simple program to activate or deactivate virtualization and other requirements for the Windows sandbox, and activates the sandbox automatically.
 
-![Design Picture](https://i.imgur.com/yv8OqvV.png)
-
-Made using bunifu design.
-
-Link to : [GitHub project page](https://github.com/0xw01f/darkpurple-calculator).
-
+Link to the project: [Windows sandbow manager](https://github.com/0xw01f/windows-sandbox-manager)
 
 # Scripting
 
