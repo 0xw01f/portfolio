@@ -151,11 +151,17 @@ Link to the project: [Windows sandbow manager](https://github.com/0xw01f/windows
 
 ## Other-software
 Other projects that are not shown :
+
     - Remote Administration tool in VB.Net (for tests on myself only)
+
         - Screenshot
+        
         - Remote code execution
+        
         This project shows how to use network sockets and TCP/UDP protocols
+        
     - Telegram bots
+    
     - Diverse Chatbots in C++/C#/VB.Net/Python communicating over TCP
     
     
