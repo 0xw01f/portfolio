@@ -26,7 +26,7 @@ Index :
     - [BrightSign-File-Converter](#brightsign-file-converter)
  
 
-You can also take a look at [my blog](https://w01f.xyz/).
+You can also take a look at [my blog](https://w01f.fr/).
 
 # Website creation
 
